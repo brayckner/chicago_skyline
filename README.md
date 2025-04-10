@@ -1,0 +1,1 @@
+This is a civic technology project to model the economic state of the city of Chicago. 
